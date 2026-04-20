@@ -35,7 +35,7 @@ spring.jpa.hibernate.ddl-auto=update
 ### 3. Rodando o Projeto
 ```
 # Clone o repositório
-git clone https://github.com/Medeiros20/screensound.git
+git clone https://github.com/Dev-Joao-Medeiros/screensound.git
 
 # Acesse a pasta
 cd screensound
